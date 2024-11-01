@@ -1,5 +1,5 @@
 
-# 22_Natit
+# 45_Valiance
 Adds a small valley, (mostly) vanilla-like moon to Lethal Company. ([Discord link](https://discord.com/channels/1168655651455639582/1245084720614604873))
 
 
