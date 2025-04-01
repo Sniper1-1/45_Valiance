@@ -11,7 +11,9 @@ Adds a small valley, (mostly) vanilla-like moon to Lethal Company. ([Discord lin
 > **POPULATION:** Gone<br>
 > **CONDITIONS:** Rolling hills and valleys.<br>
 > **FAUNA:** A multitude of organisms reside in the valleys.
-![View of facility across lake](https://imgur.com/yyrinrb.png)
+![View of facility across lake](https://imgur.com/x4QR2tR.png)
+![View from bridge](https://imgur.com/0KXB7nz.png)
+![View from dock](https://imgur.com/VD4nIeY.png)
 
 </details>
 

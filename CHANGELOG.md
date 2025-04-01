@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.5</summary>**
+
+ - Readme pics.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.4</summary>**
 
  - Reverted last change as the issue I was trying to avoid will be fixed on Biodiversity's side.
