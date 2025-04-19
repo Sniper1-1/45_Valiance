@@ -4,6 +4,7 @@
 **<details><summary>Version 0.1.7</summary>**
 
  - Added a waterfall in wet weather (configurable, default:true).
+ - Decorated cabin.
  
  </details>
 
