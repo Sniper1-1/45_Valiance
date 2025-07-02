@@ -1,6 +1,16 @@
 
 ---
 
+**<details><summary>Version 0.1.8</summary>**
+
+ - Renamed config file for consistency.
+ - Changed box mesh.
+ - Added a moon video.
+ 
+ </details>
+
+---
+
 **<details><summary>Version 0.1.7</summary>**
 
  - Added a waterfall in wet weather (configurable, default:true).
