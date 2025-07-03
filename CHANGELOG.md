@@ -1,6 +1,14 @@
 
 ---
 
+**<details><summary>Version 0.1.9</summary>**
+
+ - Added Universal Radar as a dependency because I forgot to do it earlier.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.8</summary>**
 
  - Renamed config file for consistency.
