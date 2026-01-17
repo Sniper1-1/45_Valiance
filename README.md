@@ -21,6 +21,7 @@ Adds a small valley, (mostly) vanilla-like moon to Lethal Company. ([Discord lin
 
 
 ## Credits
+- Zeekerss for developing the game.
 - [Water asset](https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449)
 - Voxx for [TerraMesh](https://discord.com/channels/1168655651455639582/1303914349533990983) tool.
 - The developers of this mod's dependencies as it literally could not exist without them.

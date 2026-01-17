@@ -1,6 +1,15 @@
 
 ---
 
+**<details><summary>Version 1.0.0</summary>**
+
+ - Updated README.
+ - Visual enhancements.
+
+</details>
+
+---
+
 **<details><summary>Version 0.1.10</summary>**
 
  - Fixed how trees break.
